@@ -23,3 +23,7 @@ A **Linear Regression** model was used.
 ## ✅ Submission Instructions:
 1. Upload both files to your GitHub repo.
 2. Paste the GitHub repo link on the LMS portal.
+
+## LinkedIn Profile:Dendi Priyanka Reddy
+https://www.linkedin.com/in/dendi-priyanka-reddy-102974270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
